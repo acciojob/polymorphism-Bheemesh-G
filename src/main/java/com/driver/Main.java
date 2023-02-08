@@ -6,15 +6,15 @@ public class Main {
 
         public int product(int x,int y)
         {
-            return x+y;
+            return 0;
         }
         public int product(int x, int y, int z) {
 
-            return x+y+z;
+            return 0;
         }
 
         public double product(double x, double y) {
-            return x+y;
+            return 0;
         }
 
     }
